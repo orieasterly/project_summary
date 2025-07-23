@@ -1,30 +1,30 @@
-# Project Portfolio
+# Project Summary
 
 ---
 
 ## ERP Development & Business Systems (Global Beauty Care)
 
-### ERP Report Bug Fixes
-**Objective:** Diagnose and resolve legacy and current Acumatica report errors  
+### ERP Report Bug Fixes  
+**Objective:** Resolve critical defects in Acumatica report logic and layout 
 **Technologies:** Acumatica Report Designer, Generic Inquiries  
-**Contributions:**
-- Diagnosed and corrected logic, formatting, and data-binding issues in report definitions  
-- Cross-validated report outputs with source data and business rules for accuracy  
-**Outcome:** Improved report reliability and ensured consistency with operational data
+**Contributions:**  
+- Identified and resolved issues in logic, formatting, and data binding within report definitions  
+- Verified report outputs against source data and business rules to ensure accuracy and compliance  
+**Outcome:** Fixed legacies bugs in the report, improved data integrity and accuracy
 
 ### Generic Inquiry (GI) Optimization
-**Objective:** Enhance Acumatica Generic Inquiries to support reliable data export and integration with external reporting and analytics tools  
+**Objective:** Design and manage Generic Inquiries in Acumatic to export data and integrate with external reporting and analytics tools  
 **Technologies:** Acumatica Generic Inquiries, OData, Power BI  
 **Contributions:**
-- Developed and refined Generic Inquiries to expose operational data across Sales, Purchasing, Inventory, and Finance  
+- Developed and refined Generic Inquiries to extract operational data across Sales, Purchasing, Inventory, and Finance  
 - Integrated OData endpoints with Excel and Power BI to support live data links, exports, and interactive visualizations  
-**Outcome:** Enabled seamless data flow from Acumatica to external applications, improving reporting flexibility and operational visibility
+**Outcome:** Enabled seamless data flow from Acumatica to external applications, improving reporting accuracy and operational visibility
 
 ### Import Scenario Automation
 **Objective:** Automate and standardize data entry workflows in Acumatica using Import Scenarios  
 **Technologies:** Acumatica Import Scenarios, Excel templates  
 **Contributions:**
-- Created automated import routines for SKUs, sales orders, customer profiles, and vendor records  
+- Configured automation to import SKUs, sales orders, customer profiles, and vendor records 
 - Implemented field mapping and validation rules to ensure data consistency and accuracy  
 **Outcome:** Minimized manual entry errors and increased efficiency across core data processes
 
@@ -33,7 +33,7 @@
 ## Retail Analytics & Labeling Automation (Global Beauty Care)
 
 ### Retail Purchase Order Integration
-**Objective:** Extract and structure retailer purchase order data to streamline sales order entry and maintain compliance  
+**Objective:** Extract and structure retailer purchase order data to streamline sales order entry  
 **Technologies:** Power BI, Power Query, Excel VBA, Acumatica ERP  
 **Contributions:**
 - Parsed and normalized multi-store purchase orders from PDFs using Power BI and Power Query  
@@ -49,7 +49,7 @@
 **Outcome:** Increased labeling accuracy and significantly reduced manual preparation effort
 
 ### Sales Presentation Automation (Global Beauty Care)
-**Objective:** Automate the creation of branded product slides from structured Excel data  
+**Objective:** Develop a process for creating branded product slides
 **Technologies:** Excel, PowerPoint, VBA  
 **Contributions:**
 - Mapped product details (images, SKUs, descriptions, pricing) from Excel into PowerPoint templates  
@@ -87,7 +87,7 @@
 **Objective:** Standardize cost of goods sold (COGS) variance methodology  
 **Technologies:** Excel, BI tools  
 **Contributions:**
-- Decomposed cost variances into volume, mix, and rate effects  
+- Analyzed cost variances by volume, mix, and rate effects 
 - Leveraged production and cost accounting data  
 **Outcome:** Improved cost visibility and enhanced budget variance analysis
 
@@ -101,7 +101,7 @@
 
 ### Quadrant Analysis for SKU Performance
 **Objective:** Categorize product performance using a quadrant-based model  
-**Technologies:** Excel  
+**Technologies:** Excel, VBA
 **Contributions:**
 - Defined and visualized performance metrics (volume, margin, growth)  
 - Identified top and bottom performers  
@@ -113,7 +113,7 @@
 
 ### Labor Dashboard
 **Objective:** Track labor cost and efficiency in real time  
-**Technologies:** Power Query, Power Pivot, DAX  
+**Technologies:** Excel, Power Query, Power Pivot, DAX  
 **Contributions:**
 - Integrated employee, production, and financial data  
 - Created dynamic dashboards for operational insights  
@@ -131,7 +131,7 @@
 **Objective:** Monitor yield metrics across production stages  
 **Technologies:** Power Query, Excel  
 **Contributions:**
-- Compiled yield data from input to final output  
+- Compiled production yield data from input to final output  
 - Designed visuals to benchmark performance  
 **Outcome:** Identified inefficiencies and improved production quality
 
@@ -141,4 +141,4 @@
 **Contributions:**
 - Centralized budget, project status, and ROI data  
 - Built milestone tracking and automated reporting  
-**Outcome:** Strengthened capital governance and investment visibility
+**Outcome:** Enhanced control over capital spending, improved investment tracking, and enabled early detection of project variances to support corrective action
