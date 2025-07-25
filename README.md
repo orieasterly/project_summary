@@ -179,7 +179,7 @@
 
 ### Capital Expenditure Tracking System  
 **Objective:** Implement real-time CAPEX monitoring tools  
-**Technologies:** Excel data modeling stack 
+**Technologies:** Excel data modeling stack  
 **Contributions:**  
 - Centralized budget, project status, and ROI data  
 - Built milestone tracking and automated reporting  
