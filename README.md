@@ -38,7 +38,7 @@
 
 ### Generic Inquiry (GI) Optimization  
 **Objective:** Design and manage Acumatica’s built-in query feature to create custom reports and integrate with external reporting and analytics tools  
-**Technologies:** Generic Inquiry tool in Acumatica, OData
+**Technologies:** Generic Inquiry tool in Acumatica, OData  
 **Contributions:**
 - Developed and refined Generic Inquiries to extract operational data across Sales, Purchasing, Inventory, and Finance  
 - Integrated OData endpoints with Excel and Power BI to support live data links, exports, and interactive visualizations  
